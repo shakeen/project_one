@@ -1,0 +1,703 @@
+/* 
+    Created on : jan 6, 2017, 3:51:11 PM
+    Author     : Md. Shakeen Hossain
+*/
+
+/*  Medium Screen */
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+   .main{width: :992px;} 
+}
+
+
+/* Tablet Layout: 768px  */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+   .main{width: :768px;}
+}
+
+/* Mobile Layout: 328px  */
+@media only screen and (max-width:767px){
+.main{
+
+
+    width:320px;height: auto;
+
+}
+
+.back_one img {
+   
+    margin-top: 0;
+    height: 287px;
+   
+}
+
+
+.back {
+    background: url(..//images/img/header_bg1.png);
+
+width: 99%;
+    margin: 0;
+    height: 287px;
+    background-size: cover;
+
+
+}
+
+        
+   
+.logo {
+    
+    top: -317px;
+    left: -12px;
+}
+
+
+.logo img {
+   width: 26%;
+    margin-top: 46px;
+    height: 42px;
+}
+
+.logo h1 {
+        position: relative;
+    top: -25px;
+    font-size: 10px;
+    color: #fff;
+}
+
+.text {
+   
+    top: -280px;
+}
+
+.text h2 {
+    
+      font-size: 8px;
+   
+    margin-left: -26px;
+  
+}
+
+
+
+
+.btn_one {
+   
+    left: -17px;
+}
+
+
+.btn_one button {
+    padding: 2px;
+    
+    font-size: 9px;
+    margin: 0px -50px 0 27px;
+}
+
+.btn_two {
+   
+
+    left: 9px;
+}
+
+.btn_two button {
+      padding: 3px 12px;
+    font-size: 9px;
+    margin: 0px -9px 0 33px;
+}
+
+.btn_three {
+   
+   
+    left: 9px;
+}
+
+.btn_three button {
+        padding: 2px 7px;
+    font-size: 9px;
+    margin: 0px 0px 0 16px;
+}
+
+.navs {
+
+    left: 125px;
+   
+    top: -375px;
+    width: 79%;
+    font-size: 7px;
+    padding: 0;
+}
+
+
+.button {
+ width: 100%;
+    top: -20px;
+      height: 35px;
+    padding: 6px 0;
+    margin-left: -5px;
+}
+
+
+.button ul a {
+  
+    padding: 8px 3px;
+       left: -40px;
+    top: -3px;
+    font-size: 7px;
+}
+
+
+.button ul a i {
+    margin-left: 2px;
+}
+
+.button input {
+        left: -6px;
+    top: 0px;
+    width: 2%;
+    padding: 10px 11px 4px;
+    font-size: 7px;
+}
+
+.backround {
+    background: url(../images/slide_two.png);
+       height: 134px;
+    width: 100%;
+    background-size: cover;
+    margin-left: 0px;
+}
+
+
+.image_four img {
+    width: 90%;
+        margin-left: 5px;
+}
+
+.image_four {
+    width: 33%;
+    padding: 0;
+    float: left;
+    height: auto;
+    margin-top: 60px;
+
+}
+
+.caption img {
+       margin-top: 9px;
+    width: 13%;
+    margin-left: 26px;
+}
+
+
+
+.caption {
+  
+        top: -74px;
+    left: 10px;
+    width: 78%;
+    height: 68px;
+}
+
+.caption h1 {
+    margin-top: 17px;
+    font-size: 6px;
+   
+}
+
+.caption span {
+   
+   
+    font-size: 10px;
+}
+
+.text_1 {
+   
+    padding: 0; 
+}
+
+
+.text_1 h2 {
+   
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.text_1 p {
+   
+    font-size: 13px;
+  
+}
+
+.task {
+    margin-top: -60px;
+}
+
+.padding {
+   
+       margin-left: 19px;
+}
+
+.pic_one {
+ margin: 111px -330px 12px -19px;
+height: 58px;
+}
+
+
+.pic_two {
+ margin: -7px -330px 12px -19px;
+height: 58px;
+}
+
+
+.backround_4 {
+    background: url(..//images/img/news-bg.png)no-repeat;
+        width: 72%;
+    padding: 0;
+       margin-left: -60px;
+    height: 100px;
+}
+
+
+.text_2 {
+      
+   
+    left: -89px;
+    margin: -27px 0;
+    padding: 22px;
+}
+
+
+
+
+
+.text_4 {
+    
+   color: #fff;
+}
+
+.text_4 h2 {
+    font-size: 8px;
+    
+    color: #fff;
+   
+    left: 14px;
+    top: -52px;
+}
+
+
+
+
+.text_5 {
+   
+    top: 10px;
+     left: -215px;
+}
+
+.text_5 h2 {
+   
+    font-size: 7px;
+    
+  
+    margin-left: 400px;
+    width: 50%;
+        margin-top: 35px;
+}
+
+
+
+.text_6 h2 {
+   
+    font-size: 7px;
+   
+   
+    margin-top: -75px;
+    margin-left: -325px;
+        
+}
+
+
+
+
+
+.background_5 {
+   height: 80px;
+   padding: 0;
+    margin-left: -5px;
+}
+
+
+
+
+
+.count {
+   
+     left: 0px;
+   
+   width: 24%;
+    font-size: 6px;
+}
+
+
+.count h2 {
+    
+    font-size: 13px;
+    margin: 0;
+}
+
+.count p {
+    
+    font-size: 7px;
+}
+
+
+.count_1 {
+   
+    width: 38%;
+   
+    left: 79px;
+    top: -70px;
+    margin: 0;
+    float: left;
+    font-size: 6px;
+}
+
+
+.count_1 h2 {
+    margin: 0;
+   
+    font-size: 12px;
+}
+
+
+.count_1 p {
+   
+    font-size: 5px;
+    
+}
+
+
+.backround_6 {
+        background: url(..//images/bg.png)no-repeat;
+    height: 151px;
+    background-size: cover;
+   
+    margin-left: -5px;
+}
+
+
+
+
+.image_seven {
+    margin-left: 90px;
+    
+    margin-top: -43px;
+}
+
+.image_seven img {
+    width: 65%;
+}
+
+
+.image_eight {
+   
+    top: -478px;
+    left: 106px;
+   
+}
+
+
+
+.image_eight img {
+    width: 65%;
+    margin-top: 371px;
+    margin-left: 1px;
+}
+
+
+.image_nine {
+    left: 150px;
+    
+    top: -518px;
+
+}
+
+
+
+
+.text_nine {
+    top: 38px;
+    
+    left: 43px;
+   
+    font-size: 5px;
+    
+}
+
+
+.bottom {
+    height: 121px;
+}
+
+
+.images_two {
+    
+    margin: 34px -147px 0px 18px;
+    width: 30%;
+}
+
+
+
+
+}
+
+/* Wide Mobile Layout: 480px  */
+@media only screen and (min-width: 480px) and (max-width:767px){
+.main{width:480px;}
+ .text {
+    position: absolute;
+    width: 65%;
+    top: -239px;}
+
+.back_one img {
+    width: 35%;
+    height: 220px;
+}
+.btn_one {
+   
+    left: 55px;
+}
+.btn_two button {
+   
+    margin: 20px 0 0px -4px;
+}
+
+.btn_three button {
+
+    margin: 20px 0 0px -4px;
+}
+.back_one img {
+    width: 52%;
+    height: 430px;
+}
+.logo img {
+   width: 30%;
+    height: 40px;
+    margin-top: 206px;
+    margin-left: -100px;
+}
+
+.back {
+    background: url(..//images/img/header_bg1.png);
+    height: 430px;
+    background-size: cover;
+}
+
+.image_four {
+    margin-top: 233px;
+    width: 25%;
+    float: left;
+    margin-left: -26px;
+}
+
+.text_2 {
+    
+    left: -13px;
+    margin: 42px 0;
+}
+
+.text_2 h2 {
+   margin-left: 88px;
+    font-size: 15px;
+}
+
+.text_2 p {
+    
+    font-size: 10px;
+    margin-left: 80px;
+}
+
+.caption img {
+      margin-top: -91px;
+    margin-left: -4px;
+}
+
+
+.caption {
+   
+   top: 10px;
+    left: 10px;
+    border: 3px solid #fff;
+    width: 79%;
+    text-align: center;
+    height: 79px;
+}
+
+
+.image_four img {
+    width: 100%;
+    float: left;
+}
+
+.pic_one {
+    width: 87%;
+    margin: 200px -43px;
+}
+.pic_two {
+    width: 87%;
+    margin: -132px -43px;
+}
+.task {
+    width: 40%;
+    
+}
+.backround {
+      width: 480px;
+    height: 200px;
+    background-size: cover;
+}
+.backround_4 {
+    background: url(..//images/img/bg_1.png)no-repeat;
+    height: 125px;
+    margin-left: -666px;}
+
+
+.text_4 {
+    position: absolute;
+    padding: 13px 0;
+    left: -239px;
+}
+
+.text_4 h2 {
+    font-size: 11px;
+  
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+
+
+.text_5 {
+  
+    top: 30px;
+    text-align: center;
+    left: 280px;
+}
+.text_5 h2 {
+    
+    font-size: 7px;
+    
+}
+
+.text_6 {
+    
+    left: 895px;
+    /* position: relative; */
+    top: -107px;
+    width: 30%;
+}
+
+.text_6 h2 {
+    
+    font-size: 7px;
+    
+}
+
+.count {
+    float: left;
+    text-align: center;
+    width: 30%;
+    
+    left: -18px;
+    
+}
+.count h1 {
+    color: #ffc908;
+    font-size: 10px;
+}
+.count h2 {
+    color: #fff;
+    font-size: 15px;    margin:0;
+}
+.count p {
+    color: #e1e2e4;
+    font-size: 9px;
+}
+
+
+.count_1 {
+    
+    text-align: center;
+    width: 25%;
+    float: left;
+    left: -38px;
+    
+}
+.count_1 h1 {
+    color: #ffc908;
+    font-size: 10px;
+}
+.count_1 h2 {
+    color: #fff;
+    font-size: 15px;    margin:0;
+}
+.count_1 p {
+    color: #e1e2e4;
+    font-size: 9px;
+}
+
+
+
+
+
+.backround_6 {
+   
+    height: 215px;
+    background-size: cover;
+}
+.text_nine {
+    top: 45px;
+    position: relative;
+    left: 15px;
+    color: #fff;
+    font-size: 7px;
+}
+.image_seven {
+    margin-left: -53px;
+    padding: 22px 0;
+}
+
+.image_seven img {
+        width: 50%;
+    margin-left: 75px;
+        margin-top: 8px;
+}
+
+
+.image_eight {
+    position: relative;
+    top: -460px;
+    left: 256px;
+    width: 53%;
+}
+.image_eight img {
+    width: 79%;
+    top: 307px;
+    left: -203px;
+    position: absolute;
+}
+
+.image_nine img {
+    width: 50%;
+    top: 585px;
+    left: -371px;
+    position: absolute;
+}
+
+
+
+.images_two img {
+    width: 10%;
+    float: left;
+}
+

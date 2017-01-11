@@ -1,0 +1,330 @@
+
+
+
+
+
+
+            /*-----header------*/
+
+.main{width: 1349px;height: auto;margin: 0 }
+.back{background: url(..//images/img/header_bg.png);height: 623px;    background-size: cover;}
+.back_one{ padding: 0;}
+.back_one img{width: 58%;}
+
+
+
+.logo_image{
+    padding: 0;
+    height: 73px;
+
+}
+
+.logo{position: relative;
+   top: -545px;
+    left: 85px;}
+.logo img{width: 22%
+}    
+
+
+.logo h1{
+        position: relative;
+    top: -46px;
+    font-size: 20px;
+    color: #fff;
+
+}
+
+.navs{    top: -548px;
+    position: relative;    left: -103px;
+}
+.navs ul{
+
+}
+.navs ul li{
+
+}
+.navs ul li a{color: #fff;
+}
+.navs ul li a:hover{color:black;
+}
+
+.text{   position: absolute;
+    width: 72%;
+    top: -437px;
+}
+.text h2{  position: relative;
+    left: 35px;
+    font-size: 32px;
+    width: 75%;
+    text-align: left;
+    padding: 80px 0 20px;
+    margin: 0;
+    color: #fff;
+    font-weight: bold;}
+
+.btn_one{    float: left;
+    position: relative;
+    left: 36px;}
+.btn_one button{    padding: 10px 50px;
+    border-radius: 0;font-weight: bold;
+background: none;
+    border: 1px solid #fff;    color: #fff;}
+.btn_two{    float: left;
+    position: relative;
+    left: 58px;}
+ .btn_two button{    padding: 10px 50px;
+    border-radius: 0;background: #ffd41c;
+    color: black;
+    font-weight: bold;}
+
+.btn_three{    
+    position: relative;
+    left: 80px;}
+ .btn_three button{    padding: 10px 50px;
+    border-radius: 0;font-weight: bold;    background: #fff;
+    color: #9e2f3c;border-color: #fff}
+
+
+.text .defult{padding: 10px 30px;
+    border-radius: 0;}
+
+
+
+
+                    /*-----link------*/
+
+.button{ 
+ background: #ffd41c;
+    position: relative;
+    top: -52px;
+   
+    margin: 0 auto;
+    width: 85%;
+}
+
+.button ul{     
+        width: 92%;
+    padding: 0;
+    margin: 0px 0 0 45px;
+
+}
+
+.button ul a{  background: #fff;
+    padding: 10px;
+    position: relative;
+    top: -40px;}
+.button ul a i {    margin-left: 65px;}
+.button ul a i:hover{}
+.button input{    width: 15%;
+    /* margin: 0 auto; */
+    margin: 0 auto;
+    border: 1px solid #fff;
+    text-align: center;
+    background: none;
+    position: relative;
+    top: -40px;
+    padding: 8px;}
+
+.icon{    position: relative;
+    left: -25px;
+    width: 0;}
+.icon i{}
+
+
+
+
+                /*-----content------*/
+
+
+
+            
+
+.backround{background: url(../images/slide_two.png);height: 500px;    width: 100%;background-size: cover;}
+
+.text_1{    text-align: center;    padding: 6px 0 50px;}
+
+.text_1 h2{    color: #9e2f3c;
+    font-weight: bold;}
+
+.text_1 span{color: black;}
+
+.text_1 p{    color: #666;
+    font-size: 18px;}
+.images{display: block;
+    text-align: center;    margin-top: 60px;}
+.images img{    width: 25%;
+    padding: 15px;}
+
+
+.image_four{}
+.image_four img{width: 80%;}
+.image_five{}
+.image_five img{}
+.image_six{}
+.image_six img{}
+.caption{    position: relative;
+    top: -264px;
+    left: 15px;
+    border: 3px solid #fff;
+    width: 70%;
+    text-align: center;
+    height: 250px}
+.caption img{  margin-top: 37px;
+width: 17%;
+margin-left: 98px;}
+.caption h1{       margin-top: 86px;
+    font-size: 17px;
+    color: #ddd;}
+.caption span{color: #fff;
+    font-weight: bold;
+    font-size: 26px;}
+
+            /*-----Portfolio------*/
+
+
+.images_one{padding: 0;}
+.images_one img{  }
+
+.task{}
+
+.padding{padding: 0}
+
+.text_2{    text-align: center;
+    position: absolute;
+    left: 555px;
+    margin: 74px 0;}
+.text_2 h2{color: #9e2f3c;
+    font-weight: bold;}
+.text_2 span{color: black;}
+.text_2 p{color: #666;
+    font-size: 18px;}
+
+.pic_one{width: 100%;
+    margin: -1px;padding: 0}
+
+.pic_one img{    width: 25%;
+    float: left;}
+
+.pic_two{    width: 100%;padding: 0;
+    margin: -1px;}
+.pic_two img{    width: 25%;
+    float: left;}
+
+
+            /*---text---*/
+
+.backround_4{background: url(..//images/img/news-feed-bg.png)no-repeat;    height: 222px;    margin-left: -235px;padding: 0;
+margin-top: -4px;}
+.text_4{position: absolute;    padding: 80px 0;left: 40px;
+   }
+.text_4 h2{    font-size: 20px;
+    position: relative;font-weight: bold;
+    color: #fff;
+    left: 231px;}
+.text_5{       position: relative;
+    top: 60px;
+    text-align: center;left: 560px}
+.text_5 h2{  color: black;  font-size: 25px;font-weight: bold; 
+                border-right: 1px solid #4993bb;
+
+}
+.text_5 span{color: #9f4d57; }
+.text_5 p{color: #666;
+    font-size: 18px;font-weight: bold;}
+
+
+
+.text_6{    padding: 85px 0 55px;left: 630px;
+    position: relative;
+    top: -30px;    width: 30%;}
+.text_6 h2{  color: black;   font-size: 25px;  font-weight: bold;}
+.text_6  span{  color: #9f4d57;}
+.text_6 p{color: #666;
+    font-size: 18px;font-weight: bold;}
+
+
+		/*---count---*/
+
+
+.background_5{background:#262d46;
+padding: 33px 0;}
+.count{display: block;
+    text-align: center;width: 20%;
+        position: relative;
+    left: 200px;}
+.count h1{color: #ffc908}
+.count h2{color: #fff}
+.count p{color: #e1e2e4;font-size: 18px;}
+
+
+
+.count_1{display: block;
+    text-align: center;width: 20%;
+        position: relative;
+    left: 200px;}
+.count_1 h1{    font-weight: bold;color: #ffc908}
+.count_1 h2{    font-weight: bold;color: #fff}
+.count_1 p{color: #e1e2e4;
+   
+    font-size: 18px;
+    padding: 3px;}
+
+
+            
+
+
+
+.backround_6{background: url(..//images/bg.png)no-repeat; height: 639px;}
+.image_seven{     margin-left: 160px;
+    padding: 30px 0}
+.image_seven img{width: 80%;}
+.image_eight{   position: relative;
+    top: -468px;
+    left: 257px;
+    width: 53%;}
+.image_eight img{ width: 98%; }
+.image_nine {    left: 500px;
+    position: relative;
+    top: -703px;
+    width: 20%;}
+
+    .image_nine img{width: 50%}
+    .text_nine{    top: 81px;
+    position: relative;
+    left: 113px;
+    color: #fff;
+    font-size: 23px;
+width: 20%;
+}
+
+.text_nine h1{}
+        /*---footer---*/
+
+		
+.images_two { display: block;
+    text-align: center;
+    
+    margin: 74px -147px 0px 220px;
+
+
+}
+.images_two img{    width: 10%;float: left;
+    width: 10%;}
+
+.bottom{    height: 857px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
